@@ -1,5 +1,5 @@
 # Penny-s-Data-Visualization-Portfolio
-This is an on-going portfolio showcasing data visualizations for Penny Shi. 
+This is an on-going portfolio showcasing data analysis and data visualizations for Penny Shi. 
 1. Housing Preliminary Research.pdf
 
 This is the housing research project I completed during my summer internship at enFocus Inc.
